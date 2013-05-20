@@ -1,4 +1,4 @@
-package ueb2_compare;
+package compare;
 public class Rechnung {
     int rechNr;
     int rechPreis;

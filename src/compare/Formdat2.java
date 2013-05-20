@@ -1,4 +1,4 @@
-package ueb2_compare;
+package compare;
 
 import java.util.*;
 

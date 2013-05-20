@@ -1,4 +1,4 @@
-package ueb2_compare;
+package compare;
 public class Bestellposten {
     int menge;
     Bestellung bestellung;

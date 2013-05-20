@@ -1,4 +1,4 @@
-package ueb2_compare;
+package compare;
 public class Artikel_Comparable implements Comparable<Artikel_Comparable>{	
     int preis;
     int artNr;
